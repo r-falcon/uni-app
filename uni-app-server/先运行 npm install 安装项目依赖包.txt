@@ -1,0 +1,5 @@
+先下载此文件夹 
+npm install 或者 cnpm i 安装项目依赖
+将dtcmsdb4.sql文件通过phpstudy导入mysql
+cmd+r 切换到当前文件夹的src目录（app.js目录下）
+node app.js 启动调用接口数据
